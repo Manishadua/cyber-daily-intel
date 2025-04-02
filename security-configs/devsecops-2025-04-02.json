@@ -4,12 +4,12 @@
   "role": "DevSecOps Engineer",
   "organization": "BAMKO",
   "security_baseline": {
-    "version": "3.1",
-    "last_updated": "2025-04-02 18:11:00",
-    "threat_actors": ["Lazarus Group"],
-    "critical_vulnerabilities": ["Apache Kafka"],
-    "target_sectors": ["Pharmaceutical"],
-    "cvss_threshold": 8.6
+    "version": "3.2",
+    "last_updated": "2025-04-02 20:20:00",
+    "threat_actors": ["Royal Ransomware"],
+    "critical_vulnerabilities": ["VMware vCenter"],
+    "target_sectors": ["Technology"],
+    "cvss_threshold": 10.4
   },
   "devsecops_controls": {
     "container_scanning": true,
