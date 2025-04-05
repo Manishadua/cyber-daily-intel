@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-04-05
 
 ## Summary
-Royal Ransomware campaign update affecting Ivanti Connect Secure in Manufacturing organizations.
+Mustang Panda campaign update affecting OpenSSL in Media organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ Royal Ransomware campaign update affecting Ivanti Connect Secure in Manufacturin
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 9.4
+**CVSS**: 5.3
 **Status**: Active monitoring
