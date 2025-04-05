@@ -1,0 +1,25 @@
+{
+  "config_date": "2025-04-05",
+  "analyst": "Manisha Dua",
+  "role": "DevSecOps Engineer",
+  "organization": "BAMKO",
+  "security_baseline": {
+    "version": "3.1",
+    "last_updated": "2025-04-05 10:18:00",
+    "threat_actors": ["BlackCat/ALPHV"],
+    "critical_vulnerabilities": ["Docker Engine"],
+    "target_sectors": ["Education"],
+    "cvss_threshold": 7.2
+  },
+  "devsecops_controls": {
+    "container_scanning": true,
+    "pipeline_security": true,
+    "runtime_protection": true,
+    "compliance_monitoring": true
+  },
+  "automation_status": {
+    "threat_detection": "active",
+    "incident_response": "automated",
+    "compliance_reporting": "enabled"
+  }
+}
