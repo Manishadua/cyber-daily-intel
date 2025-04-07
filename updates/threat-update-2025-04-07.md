@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-04-07
 
 ## Summary
-APT29 (Cozy Bear) campaign update affecting GitLab CE in Defense organizations.
+Scattered Spider campaign update affecting Apache Struts in Government organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ APT29 (Cozy Bear) campaign update affecting GitLab CE in Defense organizations.
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 6.7
+**CVSS**: 8.6
 **Status**: Active monitoring
