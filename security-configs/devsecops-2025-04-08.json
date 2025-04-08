@@ -1,0 +1,25 @@
+{
+  "config_date": "2025-04-08",
+  "analyst": "Manisha Dua",
+  "role": "DevSecOps Engineer",
+  "organization": "BAMKO",
+  "security_baseline": {
+    "version": "3.3",
+    "last_updated": "2025-04-08 20:58:00",
+    "threat_actors": ["BlackCat/ALPHV"],
+    "critical_vulnerabilities": ["Grafana"],
+    "target_sectors": ["Healthcare"],
+    "cvss_threshold": 6.2
+  },
+  "devsecops_controls": {
+    "container_scanning": true,
+    "pipeline_security": true,
+    "runtime_protection": true,
+    "compliance_monitoring": true
+  },
+  "automation_status": {
+    "threat_detection": "active",
+    "incident_response": "automated",
+    "compliance_reporting": "enabled"
+  }
+}
