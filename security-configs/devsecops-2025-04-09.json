@@ -1,0 +1,25 @@
+{
+  "config_date": "2025-04-09",
+  "analyst": "Manisha Dua",
+  "role": "DevSecOps Engineer",
+  "organization": "BAMKO",
+  "security_baseline": {
+    "version": "3.1",
+    "last_updated": "2025-04-09 19:40:00",
+    "threat_actors": ["Royal Ransomware"],
+    "critical_vulnerabilities": ["VMware vCenter"],
+    "target_sectors": ["Aerospace"],
+    "cvss_threshold": 4.5
+  },
+  "devsecops_controls": {
+    "container_scanning": true,
+    "pipeline_security": true,
+    "runtime_protection": true,
+    "compliance_monitoring": true
+  },
+  "automation_status": {
+    "threat_detection": "active",
+    "incident_response": "automated",
+    "compliance_reporting": "enabled"
+  }
+}
