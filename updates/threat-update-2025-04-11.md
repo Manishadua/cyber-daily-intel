@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-04-11
 
 ## Summary
-Sandworm campaign update affecting F5 BIG-IP in Healthcare organizations.
+APT29 (Cozy Bear) campaign update affecting Apache Kafka in Telecommunications organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ Sandworm campaign update affecting F5 BIG-IP in Healthcare organizations.
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 7.8
+**CVSS**: 9.7
 **Status**: Active monitoring
