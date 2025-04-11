@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-04-11
 
 ## Summary
-APT29 (Cozy Bear) campaign update affecting Apache Kafka in Telecommunications organizations.
+Royal Ransomware campaign update affecting WordPress in Aerospace organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ APT29 (Cozy Bear) campaign update affecting Apache Kafka in Telecommunications o
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 9.7
+**CVSS**: 7.4
 **Status**: Active monitoring
