@@ -1,0 +1,25 @@
+{
+  "config_date": "2025-04-12",
+  "analyst": "Manisha Dua",
+  "role": "DevSecOps Engineer",
+  "organization": "BAMKO",
+  "security_baseline": {
+    "version": "3.2",
+    "last_updated": "2025-04-12 17:31:00",
+    "threat_actors": ["Lazarus Group"],
+    "critical_vulnerabilities": ["Kubernetes API"],
+    "target_sectors": ["Media"],
+    "cvss_threshold": 4.8
+  },
+  "devsecops_controls": {
+    "container_scanning": true,
+    "pipeline_security": true,
+    "runtime_protection": true,
+    "compliance_monitoring": true
+  },
+  "automation_status": {
+    "threat_detection": "active",
+    "incident_response": "automated",
+    "compliance_reporting": "enabled"
+  }
+}
