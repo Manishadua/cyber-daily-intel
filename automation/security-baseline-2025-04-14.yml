@@ -1,0 +1,20 @@
+# Security Baseline Configuration — 2025-04-14
+# Author: Manisha Dua, DevSecOps Engineer
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: security-baseline-2025-04-14
+  namespace: security
+data:
+  baseline_version: "2.2.4"
+  threat_actors: |
+    - Cl0p
+  vulnerabilities: |
+    - component: Apache Kafka
+      cvss: 8.6
+      status: patching_required
+  sectors: |
+    - target: Pharmaceutical
+      risk_level: high
+      monitoring: enhanced
