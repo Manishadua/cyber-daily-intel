@@ -1,0 +1,25 @@
+{
+  "config_date": "2025-04-17",
+  "analyst": "Manisha Dua",
+  "role": "DevSecOps Engineer",
+  "organization": "BAMKO",
+  "security_baseline": {
+    "version": "3.1",
+    "last_updated": "2025-04-17 15:36:00",
+    "threat_actors": ["REvil"],
+    "critical_vulnerabilities": ["OpenSSL"],
+    "target_sectors": ["Transportation"],
+    "cvss_threshold": 8.0
+  },
+  "devsecops_controls": {
+    "container_scanning": true,
+    "pipeline_security": true,
+    "runtime_protection": true,
+    "compliance_monitoring": true
+  },
+  "automation_status": {
+    "threat_detection": "active",
+    "incident_response": "automated",
+    "compliance_reporting": "enabled"
+  }
+}
