@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-04-21
 
 ## Summary
-APT28 (Fancy Bear) campaign update affecting Grafana in Financial Services organizations.
+Volt Typhoon campaign update affecting Atlassian Confluence in Defense organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ APT28 (Fancy Bear) campaign update affecting Grafana in Financial Services organ
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 7.8
+**CVSS**: 9.7
 **Status**: Active monitoring
