@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-04-23
 
 ## Summary
-Cl0p campaign update affecting Terraform in Education organizations.
+REvil campaign update affecting Palo Alto PAN-OS in Legal organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ Cl0p campaign update affecting Terraform in Education organizations.
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 4.2
+**CVSS**: 7.1
 **Status**: Active monitoring
