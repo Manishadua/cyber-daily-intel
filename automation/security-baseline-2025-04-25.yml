@@ -1,0 +1,20 @@
+# Security Baseline Configuration — 2025-04-25
+# Author: Manisha Dua, DevSecOps Engineer
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: security-baseline-2025-04-25
+  namespace: security
+data:
+  baseline_version: "2.1.1"
+  threat_actors: |
+    - Equation Group
+  vulnerabilities: |
+    - component: SolarWinds Orion
+      cvss: 6.5
+      status: patching_required
+  sectors: |
+    - target: Retail
+      risk_level: high
+      monitoring: enhanced
