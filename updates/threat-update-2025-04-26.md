@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-04-26
 
 ## Summary
-Cl0p campaign update affecting MongoDB in Aerospace organizations.
+Equation Group campaign update affecting Cisco IOS XE in Retail organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ Cl0p campaign update affecting MongoDB in Aerospace organizations.
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 5.4
+**CVSS**: 7.3
 **Status**: Active monitoring
