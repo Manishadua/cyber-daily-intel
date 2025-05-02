@@ -1,0 +1,25 @@
+{
+  "config_date": "2025-05-02",
+  "analyst": "Manisha Dua",
+  "role": "DevSecOps Engineer",
+  "organization": "BAMKO",
+  "security_baseline": {
+    "version": "3.2",
+    "last_updated": "2025-05-02 18:57:00",
+    "threat_actors": ["BlackCat/ALPHV"],
+    "critical_vulnerabilities": ["Citrix NetScaler"],
+    "target_sectors": ["Legal"],
+    "cvss_threshold": 5.2
+  },
+  "devsecops_controls": {
+    "container_scanning": true,
+    "pipeline_security": true,
+    "runtime_protection": true,
+    "compliance_monitoring": true
+  },
+  "automation_status": {
+    "threat_detection": "active",
+    "incident_response": "automated",
+    "compliance_reporting": "enabled"
+  }
+}
