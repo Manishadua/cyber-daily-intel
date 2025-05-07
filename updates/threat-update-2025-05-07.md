@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-05-07
 
 ## Summary
-Volt Typhoon campaign update affecting Docker Engine in Legal organizations.
+Mustang Panda campaign update affecting Terraform in Financial Services organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ Volt Typhoon campaign update affecting Docker Engine in Legal organizations.
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 8.6
+**CVSS**: 6.4
 **Status**: Active monitoring
