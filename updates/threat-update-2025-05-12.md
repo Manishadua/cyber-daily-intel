@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-05-12
 
 ## Summary
-Volt Typhoon campaign update affecting Grafana in Defense organizations.
+Lazarus Group campaign update affecting Atlassian Confluence in Government organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ Volt Typhoon campaign update affecting Grafana in Defense organizations.
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 5.7
+**CVSS**: 7.6
 **Status**: Active monitoring
