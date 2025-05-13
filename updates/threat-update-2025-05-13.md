@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-05-13
 
 ## Summary
-Cl0p campaign update affecting Cisco IOS XE in Retail organizations.
+Equation Group campaign update affecting Nginx in Healthcare organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ Cl0p campaign update affecting Cisco IOS XE in Retail organizations.
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 5.3
+**CVSS**: 7.2
 **Status**: Active monitoring
