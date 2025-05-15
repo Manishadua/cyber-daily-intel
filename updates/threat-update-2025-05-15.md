@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-05-15
 
 ## Summary
-Carbanak campaign update affecting Log4j in Healthcare organizations.
+APT40 (Leviathan) campaign update affecting GitLab CE in Manufacturing organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ Carbanak campaign update affecting Log4j in Healthcare organizations.
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 4.2
+**CVSS**: 4.0
 **Status**: Active monitoring
