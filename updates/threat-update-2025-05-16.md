@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-05-16
 
 ## Summary
-Carbanak campaign update affecting Elasticsearch in Healthcare organizations.
+REvil campaign update affecting Fortinet FortiGate in Telecommunications organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ Carbanak campaign update affecting Elasticsearch in Healthcare organizations.
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 6.2
+**CVSS**: 9.1
 **Status**: Active monitoring
