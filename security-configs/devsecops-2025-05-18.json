@@ -1,0 +1,25 @@
+{
+  "config_date": "2025-05-18",
+  "analyst": "Manisha Dua",
+  "role": "DevSecOps Engineer",
+  "organization": "BAMKO",
+  "security_baseline": {
+    "version": "3.1",
+    "last_updated": "2025-05-18 8:59:00",
+    "threat_actors": ["LockBit 3.0"],
+    "critical_vulnerabilities": ["Nginx"],
+    "target_sectors": ["Financial Services"],
+    "cvss_threshold": 8.3
+  },
+  "devsecops_controls": {
+    "container_scanning": true,
+    "pipeline_security": true,
+    "runtime_protection": true,
+    "compliance_monitoring": true
+  },
+  "automation_status": {
+    "threat_detection": "active",
+    "incident_response": "automated",
+    "compliance_reporting": "enabled"
+  }
+}
