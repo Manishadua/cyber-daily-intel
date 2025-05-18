@@ -5,11 +5,11 @@
   "organization": "BAMKO",
   "security_baseline": {
     "version": "3.1",
-    "last_updated": "2025-05-18 8:59:00",
-    "threat_actors": ["LockBit 3.0"],
-    "critical_vulnerabilities": ["Nginx"],
-    "target_sectors": ["Financial Services"],
-    "cvss_threshold": 8.3
+    "last_updated": "2025-05-18 15:08:00",
+    "threat_actors": ["BlackCat/ALPHV"],
+    "critical_vulnerabilities": ["Apache Kafka"],
+    "target_sectors": ["Energy"],
+    "cvss_threshold": 6.1
   },
   "devsecops_controls": {
     "container_scanning": true,
