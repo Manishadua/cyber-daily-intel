@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-05-19
 
 ## Summary
-BlackCat/ALPHV campaign update affecting PostgreSQL in Telecommunications organizations.
+Kimsuky campaign update affecting MongoDB in Energy organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ BlackCat/ALPHV campaign update affecting PostgreSQL in Telecommunications organi
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 10.1
+**CVSS**: 6.0
 **Status**: Active monitoring
