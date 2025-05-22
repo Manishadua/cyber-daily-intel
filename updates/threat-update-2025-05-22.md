@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-05-22
 
 ## Summary
-Scattered Spider campaign update affecting MongoDB in Energy organizations.
+TA505 campaign update affecting Cisco IOS XE in Aerospace organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ Scattered Spider campaign update affecting MongoDB in Energy organizations.
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 9.6
+**CVSS**: 5.4
 **Status**: Active monitoring
