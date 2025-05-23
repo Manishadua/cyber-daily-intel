@@ -1,0 +1,25 @@
+{
+  "config_date": "2025-05-23",
+  "analyst": "Manisha Dua",
+  "role": "DevSecOps Engineer",
+  "organization": "BAMKO",
+  "security_baseline": {
+    "version": "3.2",
+    "last_updated": "2025-05-23 20:43:00",
+    "threat_actors": ["Volt Typhoon"],
+    "critical_vulnerabilities": ["Apache Struts"],
+    "target_sectors": ["Healthcare"],
+    "cvss_threshold": 7.7
+  },
+  "devsecops_controls": {
+    "container_scanning": true,
+    "pipeline_security": true,
+    "runtime_protection": true,
+    "compliance_monitoring": true
+  },
+  "automation_status": {
+    "threat_detection": "active",
+    "incident_response": "automated",
+    "compliance_reporting": "enabled"
+  }
+}
