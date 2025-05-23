@@ -1,0 +1,20 @@
+# Security Baseline Configuration — 2025-05-23
+# Author: Manisha Dua, DevSecOps Engineer
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: security-baseline-2025-05-23
+  namespace: security
+data:
+  baseline_version: "2.3.1"
+  threat_actors: |
+    - Lazarus Group
+  vulnerabilities: |
+    - component: Citrix NetScaler
+      cvss: 5.4
+      status: patching_required
+  sectors: |
+    - target: Telecommunications
+      risk_level: high
+      monitoring: enhanced
