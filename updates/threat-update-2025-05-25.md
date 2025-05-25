@@ -1,7 +1,7 @@
 # Threat Intelligence Update — 2025-05-25
 
 ## Summary
-TA505 campaign update affecting SolarWinds Orion in Pharmaceutical organizations.
+Cl0p campaign update affecting Kubernetes API in Retail organizations.
 
 ## DevSecOps Response
 - Security pipeline updates deployed
@@ -9,5 +9,5 @@ TA505 campaign update affecting SolarWinds Orion in Pharmaceutical organizations
 - Automated threat detection enhanced
 
 **Analyst**: Manisha Dua, DevSecOps Engineer
-**CVSS**: 6.5
+**CVSS**: 8.4
 **Status**: Active monitoring
