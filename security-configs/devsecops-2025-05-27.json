@@ -4,12 +4,12 @@
   "role": "DevSecOps Engineer",
   "organization": "BAMKO",
   "security_baseline": {
-    "version": "3.2",
-    "last_updated": "2025-05-27 9:07:00",
-    "threat_actors": ["Carbanak"],
-    "critical_vulnerabilities": ["Spring Framework"],
-    "target_sectors": ["Telecommunications"],
-    "cvss_threshold": 9.2
+    "version": "3.1",
+    "last_updated": "2025-05-27 11:16:00",
+    "threat_actors": ["REvil"],
+    "critical_vulnerabilities": ["Grafana"],
+    "target_sectors": ["Energy"],
+    "cvss_threshold": 5.1
   },
   "devsecops_controls": {
     "container_scanning": true,
