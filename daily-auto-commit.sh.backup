@@ -11,7 +11,7 @@ TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
 DAY_OF_WEEK=$(date +%u)  # 1=Mon, 7=Sun
 
 # Skip weekends sometimes for realistic pattern
-if false && (( RANDOM % 100 < 60 )); then
+if [[ $DAY_OF_WEEK -ge 6 ]] && (( RANDOM % 100 < 60 )); then
   echo "🏖️ Weekend skip (realistic pattern)"
   exit 0
 fi
@@ -32,7 +32,7 @@ ACTOR=$(rand_element "${THREAT_ACTORS[@]}")
 VULN=$(rand_element "${VULNS[@]}")
 SECTOR=$(rand_element "${SECTORS[@]}")
 ACTIVITY=$(rand_element "${ACTIVITIES[@]}")
-CVSS="$((RANDOM % 7 + 4)).$((RANDOM % 10))"
+CVSS="$(shuf -i 4-10 -n 1).$((RANDOM % 10))"
 
 # Determine number of commits (1-4 based on time)
 if [[ $HOUR -ge 9 && $HOUR -le 17 ]]; then
