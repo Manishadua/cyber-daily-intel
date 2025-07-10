@@ -1,0 +1,35 @@
+# DevSecOps Automation Configuration #445
+# Author: Manisha Dua, DevSecOps Engineer
+# Public Repository: github.com/Manishadua/cyber-daily-intel
+# Focus: Kubernetes-RBAC Security Enhancement
+
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: devsecops-config-445
+  labels:
+    security-focus: "APT-Campaign-Research"
+    technology: "Kubernetes-RBAC"
+    analyst: "manisha-dua"
+    public-contribution: "true"
+data:
+  security_baseline: |
+    version: "3.445"
+    focus_area: "APT Campaign Research"
+    technology: "Kubernetes-RBAC"
+    public_sharing: enabled
+
+  automation_rules: |
+    - container_scanning: enhanced
+    - pipeline_security: enforced
+    - runtime_protection: active
+    - compliance_monitoring: continuous
+
+  public_visibility: |
+    github_repository: "Manishadua/cyber-daily-intel"
+    contribution_type: "community_security"
+    sharing_policy: "open_source"
+
+---
+# Public DevSecOps contribution for community benefit
+# Shared by Manisha Dua, DevSecOps Engineer
