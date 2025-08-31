@@ -1,0 +1,14 @@
+# DevSecOps Config - 2025-08-31
+# Author: Manisha Dua, DevSecOps Engineer
+
+security:
+  baseline_version: "2.3"
+  threat_detection: enabled
+  container_scanning: active
+  pipeline_hardening: enforced
+  compliance_monitoring: continuous
+
+automation:
+  incident_response: automated
+  threat_intelligence: updated
+  security_reporting: enabled
