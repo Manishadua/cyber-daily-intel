@@ -3,7 +3,7 @@ set -euo pipefail
 
 cd "/Users/satyamrastogi/manisha-cyber-intel"
 
-TODAY="2026-05-08"
+TODAY="2026-05-07"
 TIMESTAMP="$(date '+%Y-%m-%d %H:%M:%S')"
 
 CATEGORIES=(
