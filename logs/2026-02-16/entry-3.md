@@ -1,0 +1,14 @@
+# Vulnerability Scan — 2026-02-16 (v3)
+
+## Entry
+- **Component:** Ivanti
+- **Severity:** CVSS 6.7
+- **Status:** Under review
+- **Analyst:** Auto-generated
+
+## Notes
+Routine vulnerability scan performed as part of daily security operations.
+Assessment of Ivanti completed. Findings documented.
+
+---
+*Auto-generated on 2026-02-16 — entry 3*
