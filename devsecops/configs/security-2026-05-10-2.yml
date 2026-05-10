@@ -1,0 +1,34 @@
+# DevSecOps Configuration — 2026-05-10 Update 2
+# Author: Manisha Dua, DevSecOps Engineer
+# Type: security
+
+apiVersion: security.bamko.com/v1
+kind: SecurityConfig
+metadata:
+  name: security-config-2026-05-10-2
+  namespace: security-ops
+  labels:
+    analyst: manisha-dua
+    role: devsecops-engineer
+    threat-actor: APT29
+    vulnerability: Microsoft-Exchange
+spec:
+  threatDetection:
+    enabled: true
+    actor: "APT29"
+    vulnerability: "Microsoft Exchange"
+    cvss: 6.7
+    sector: "Technology"
+  automationRules:
+    containerScanning: enhanced
+    pipelineHardening: active
+    runtimeProtection: enabled
+    complianceMonitoring: continuous
+  responseAutomation:
+    alerting: immediate
+    containment: automated
+    investigation: triggered
+    reporting: automated
+---
+# Configuration deployed: 2026-05-10 01:53:33
+# DevSecOps Engineer: Manisha Dua
